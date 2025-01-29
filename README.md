@@ -1,3 +1,4 @@
+
 Overview
 
 The Smart and Effective Street Parking project is an AI-based parking management system that helps in detecting vacant and occupied parking spots using computer vision and machine learning. This system processes real-time video footage from CCTV or drone cameras to provide insights into parking space availability, optimizing urban parking efficiency.
